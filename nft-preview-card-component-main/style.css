@@ -1,0 +1,131 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color:  hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+.card{
+    
+    position: relative;
+
+    top: 7vh;
+    
+    background-color: hsl(216, 50%, 16%);
+    width: 300px;
+    height: 530px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 20px ;
+}
+
+.equilibrium,.title{
+    position: relative;
+    left: 20px;
+}
+
+.equilibrium{
+    width: 85%;
+    border-radius: 8px ;
+
+    
+    top: 20px;
+
+    /* background-color: red */
+
+}
+.title{
+    color: hsl(0, 0%, 100%);
+    top: 5px;
+    
+    font-size: 600;
+}
+
+.message{
+    margin-left: 20px;
+    color: #8BACD9;
+    
+    font-size: 400;
+    /* left:20px; */
+    
+}
+
+.etherium,.time{
+    display: inline-block;
+    
+    font-size: 200;
+
+    position: relative;
+    bottom: 3px;
+}
+
+.etherium{
+    color: hsl(178, 100%, 50%);
+    /* background-color: red; */
+}
+
+.time{
+    color: #8BACD9;
+}
+
+.iconether{
+    margin-left: 20px;
+    margin-right: 2px;
+}
+
+.clock{
+    margin-left: 70px;
+    margin-right: 2px;
+}
+
+.sep{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.avatar-creator{
+    border-radius: 50% ;
+    border: 1px solid hsl(0, 0%, 100%);
+    width: 40px;
+    height: 40px;
+    
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.name-creator{
+    display: inline-block;
+    
+    font-size: 200;
+    /* background-color: seagreen; */
+
+    position: relative;
+    bottom: 5px;
+    
+}
+
+.name-creator1{
+    color: #8BACD9;
+    margin-left: 40px;
+}
+.name-creator2{
+    color: hsl(0, 0%, 100%);
+    
+}
+
+.attribution{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    color: white;
+}
+
+.attribution a{
+    color: #8BACD9;
+}
